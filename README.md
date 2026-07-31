@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/leonardo-lourenço-gomes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:leondeveloper1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/IBM%20Consulting-3+ years-052FAD?style=flat&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Team%20Lead-3+ years-FF6600?style=flat" />
   <img src="https://komarev.com/ghpvc/?username=leon-lourenco&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
 
@@ -15,13 +16,14 @@
 
 ### About
 
-**3+ years at IBM Consulting** (Technology Consultant / Senior Software Engineer / Technical Lead) delivering for global enterprise clients — **Bradesco, Itaú, MAPFRE, and T-Mobile** — plus engagements at **Fiserv** and **PagBank**. 8 years total building and modernizing mission-critical backend systems, from Java monolith modernization to cloud-native microservices, payment platforms, and production observability.
+**3+ years at IBM Consulting** (Technology Consultant / Senior Software Engineer / Technical Lead) delivering for global enterprise clients — **Bradesco, Itaú, MAPFRE, and T-Mobile** — plus engagements at **Fiserv** and **PagBank**. Earlier, I spent **3+ years at Fulltime Gestora de Dados leading the backend team** behind FullCam, a real-time video monitoring platform I helped grow from zero to 30,000 customers. 8 years total building and modernizing mission-critical backend systems, from Java monolith modernization to cloud-native microservices, payment platforms, and production observability.
 
 I'm a senior individual contributor who turns complex legacy or regulated domains into measurable delivery: legacy Java modernization (Java 6 → Java 21), payment and digital banking systems at scale, distributed systems, messaging, and production support — with English-fluent international delivery experience (T-Mobile CCPA compliance with US leadership).
 
 Lately I've also been applying AI-assisted engineering (prompt engineering, LLM provider integrations, MCP Servers) to speed up legacy code analysis, debugging, and technical research.
 
 - 🔵 **IBM Consulting (3+ years):** Technology Consultant / Senior Software Engineer / Technical Lead across Bradesco, Itaú, MAPFRE, and T-Mobile
+- 🎥 **Fulltime Gestora de Dados (3+ years):** Led the backend team building FullCam from the ground up to 30,000 customers
 - 🏦 **Payments & digital banking:** Software Express, PagBank Digital Account, salary portability, payment gateways, POS integrations, PIX, Open Finance
 - 🛠️ **Legacy modernization:** Java 6 → Java 21, monoliths with 70+ modules, dependency/vulnerability remediation
 - ☁️ **Cloud-native backend:** microservices, hexagonal architecture, Kafka/RabbitMQ, AWS/Azure/GCP, Kubernetes
@@ -73,7 +75,10 @@ Lately I've also been applying AI-assisted engineering (prompt engineering, LLM 
 - 🏗️ Modernized core credit systems from **COBOL/mainframe to Java microservices** at Itaú *(IBM Consulting engagement)*
 - 📈 Reduced daily financial batch processing from **2 hours to 30 minutes** (3M+ entries/day) at MAPFRE *(IBM Consulting engagement)*
 - 🇺🇸 Delivered a 15-microservice CCPA compliance program for T-Mobile with US-based leadership *(IBM Consulting engagement)*
-- 📹 Built FullCam from zero to **30,000 customers**, cutting live-video latency from 6s to 20ms via WebRTC
+- 🎥 **Fulltime Gestora de Dados** — Led the backend team, 3+ years, building FullCam from zero to **30,000 customers**
+- 📹 Cut live-video latency from 6s to **20ms** with a WebRTC implementation at FullCam
+- 🎬 Built cloud and on-premise video-monitoring microservices (FFMPEG, OpenCV, MQTT, SMS) powering an architecture that delivered **15M+ notifications**
+- 👥 Onboarded 10+ collaborators and owned backend technology decisions for the FullCam platform
 
 ---
 
