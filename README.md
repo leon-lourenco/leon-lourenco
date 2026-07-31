@@ -7,6 +7,7 @@
   <br/>
   <a href="https://www.linkedin.com/in/leonardo-lourenço-gomes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:leondeveloper1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=leon-lourenco&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
 
 ---
@@ -78,6 +79,18 @@ Lately I've also been applying AI-assisted engineering (prompt engineering, LLM 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=leon-lourenco&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon-lourenco&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leon-lourenco&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leon-lourenco&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leon-lourenco&theme=minimal&hide_border=true" />
 </p>
 
 ---
