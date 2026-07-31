@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/leonardo-lourenço-gomes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:leondeveloper1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/IBM%20Consulting-3+ years-052FAD?style=flat&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend%20Team%20Lead-3+ years-FF6600?style=flat" />
   <img src="https://komarev.com/ghpvc/?username=leon-lourenco&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
 
@@ -16,14 +15,13 @@
 
 ### About
 
-**3+ years at IBM Consulting** (Technology Consultant / Senior Software Engineer / Technical Lead) delivering for global enterprise clients — **Bradesco, Itaú, MAPFRE, and T-Mobile** — plus engagements at **Fiserv** and **PagBank**. Earlier, I spent **3+ years at Fulltime Gestora de Dados leading the backend team** behind FullCam, a real-time video monitoring platform I helped grow from zero to 30,000 customers. 8 years total building and modernizing mission-critical backend systems, from Java monolith modernization to cloud-native microservices, payment platforms, and production observability.
+**3+ years at IBM Consulting** (Technology Consultant / Senior Software Engineer / Technical Lead) delivering for global enterprise clients — **Bradesco, Itaú, MAPFRE, and T-Mobile** — plus engagements at **Fiserv** and **PagBank**. 8 years total building and modernizing mission-critical backend systems, from Java monolith modernization to cloud-native microservices, payment platforms, and production observability.
 
 I'm a senior individual contributor who turns complex legacy or regulated domains into measurable delivery: legacy Java modernization (Java 6 → Java 21), payment and digital banking systems at scale, distributed systems, messaging, and production support — with English-fluent international delivery experience (T-Mobile CCPA compliance with US leadership).
 
 Lately I've also been applying AI-assisted engineering (prompt engineering, LLM provider integrations, MCP Servers) to speed up legacy code analysis, debugging, and technical research.
 
 - 🔵 **IBM Consulting (3+ years):** Technology Consultant / Senior Software Engineer / Technical Lead across Bradesco, Itaú, MAPFRE, and T-Mobile
-- 🎥 **Fulltime Gestora de Dados (3+ years):** Led the backend team building FullCam from the ground up to 30,000 customers
 - 🏦 **Payments & digital banking:** Software Express, PagBank Digital Account, salary portability, payment gateways, POS integrations, PIX, Open Finance
 - 🛠️ **Legacy modernization:** Java 6 → Java 21, monoliths with 70+ modules, dependency/vulnerability remediation
 - ☁️ **Cloud-native backend:** microservices, hexagonal architecture, Kafka/RabbitMQ, AWS/Azure/GCP, Kubernetes
@@ -75,10 +73,56 @@ Lately I've also been applying AI-assisted engineering (prompt engineering, LLM 
 - 🏗️ Modernized core credit systems from **COBOL/mainframe to Java microservices** at Itaú *(IBM Consulting engagement)*
 - 📈 Reduced daily financial batch processing from **2 hours to 30 minutes** (3M+ entries/day) at MAPFRE *(IBM Consulting engagement)*
 - 🇺🇸 Delivered a 15-microservice CCPA compliance program for T-Mobile with US-based leadership *(IBM Consulting engagement)*
-- 🎥 **Fulltime Gestora de Dados** — Led the backend team, 3+ years, building FullCam from zero to **30,000 customers**
-- 📹 Cut live-video latency from 6s to **20ms** with a WebRTC implementation at FullCam
-- 🎬 Built cloud and on-premise video-monitoring microservices (FFMPEG, OpenCV, MQTT, SMS) powering an architecture that delivered **15M+ notifications**
-- 👥 Onboarded 10+ collaborators and owned backend technology decisions for the FullCam platform
+- 📹 Built FullCam from zero to **30,000 customers**, cutting live-video latency from 6s to 20ms via WebRTC
+
+---
+
+### Professional Journey
+
+<details>
+<summary><strong>🎥 Fulltime Gestora de Dados</strong> — Software Developer → Backend Team Lead <sub>(2018 – 2021 · Garça, SP)</sub></summary>
+<br/>
+
+I joined right out of school and helped build **FullCam**, a real-time camera monitoring platform, from the ground up. Over three years I grew into the backend team lead — guiding architecture and technology decisions while onboarding 10+ engineers. We took FullCam from zero to **30,000 customers**, built cloud and on-premise microservices around FFMPEG, OpenCV, WebRTC, and MQTT, and shipped a notification architecture that delivered **15M+ alerts**. The proudest engineering win: reworking live-camera viewing with WebRTC and cutting display latency from **6 seconds down to 20 milliseconds**.
+
+</details>
+
+<details>
+<summary><strong>💳 Yapay Pagamentos Online / Vindi</strong> — Mid-Level Software Engineer <sub>(2021 – 2022 · Remote)</sub></summary>
+<br/>
+
+My first real dive into payments. I maintained SuperPay, the company's legacy gateway, and joined the New Business team building integrations across Yapay's financial ecosystem — payment and POS backend features spanning Ruby on Rails and Java EE. This is where the fintech thread of my career really started.
+
+</details>
+
+<details>
+<summary><strong>🔵 IBM Consulting</strong> — Technology Consultant / Senior Software Engineer / Technical Lead <sub>(2022 – 2025 · Remote)</sub></summary>
+<br/>
+
+Three years, four very different enterprise clients, one common thread: modernizing critical systems without breaking them.
+
+- **T-Mobile** — delivered a 15-microservice cloud structure for CCPA compliance in 10 months, working directly with US-based leadership.
+- **Itaú** — helped migrate core credit systems from COBOL/mainframe to Java/Kotlin microservices across 3 squads, and onboarded 15+ engineers along the way.
+- **MAPFRE** — cut daily financial batch processing from 2 hours to 30 minutes for 3M+ daily entries by parallelizing core Spring Batch operations.
+- **Bradesco** — architected enterprise integrations for contract and billing management, contributing to Open Cash Hub, an initiative projected to generate R$5 billion over 3 years.
+
+</details>
+
+<details>
+<summary><strong>🏦 TQI Consulting × PagBank</strong> — Senior Software Engineer <sub>(2025 – 2026 · Remote)</sub></summary>
+<br/>
+
+Back to digital banking, this time on PagBank's Digital Account and Terminals products. I refactored the core salary-portability queries for an **80%+** performance gain, rebuilt the domain's test suite with **1,300+ new tests**, and supported a product launch that grew the customer base by 20% in five months — all while owning production support across 200+ customer tickets.
+
+</details>
+
+<details open>
+<summary><strong>🌐 act digital Consulting × Fiserv</strong> — Senior Software Engineer <sub>(2026 – Present · Remote)</sub></summary>
+<br/>
+
+Currently modernizing **Software Express**, a high-criticality global payment platform. I've eliminated **5,000+ vulnerabilities** — some open for over 6 years — while upgrading a 70+ module monolith from Java 1.6 to Java 21 and cutting build time from 23 minutes to 5. Along the way I onboarded 6 new partners into the platform and leaned on an AI-first engineering workflow to speed up legacy analysis and modernization planning.
+
+</details>
 
 ---
 
