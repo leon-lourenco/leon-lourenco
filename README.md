@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Leonardo "Leon" Lourenço Gomes 👋</h1>
+<h1 align="center">Hi, I'm Leon Lourenço! </h1>
 
 <h3 align="center">Senior Backend Engineer · Java/Spring · Fintech & Payments · Cloud-Native Microservices</h3>
 
