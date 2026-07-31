@@ -7,6 +7,7 @@
   <br/>
   <a href="https://www.linkedin.com/in/leonardo-lourenço-gomes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:leondeveloper1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/IBM%20Consulting-3+ years-052FAD?style=flat&logo=ibm&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=leon-lourenco&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
 
@@ -14,12 +15,13 @@
 
 ### About
 
-8 years building and modernizing mission-critical backend systems for **Fiserv, PagBank, Bradesco, Itaú, MAPFRE, T-Mobile, and Yapay/Vindi** — from Java monolith modernization to cloud-native microservices, payment platforms, and production observability.
+**3+ years at IBM Consulting** (Technology Consultant / Senior Software Engineer / Technical Lead) delivering for global enterprise clients — **Bradesco, Itaú, MAPFRE, and T-Mobile** — plus engagements at **Fiserv** and **PagBank**. 8 years total building and modernizing mission-critical backend systems, from Java monolith modernization to cloud-native microservices, payment platforms, and production observability.
 
 I'm a senior individual contributor who turns complex legacy or regulated domains into measurable delivery: legacy Java modernization (Java 6 → Java 21), payment and digital banking systems at scale, distributed systems, messaging, and production support — with English-fluent international delivery experience (T-Mobile CCPA compliance with US leadership).
 
 Lately I've also been applying AI-assisted engineering (prompt engineering, LLM provider integrations, MCP Servers) to speed up legacy code analysis, debugging, and technical research.
 
+- 🔵 **IBM Consulting (3+ years):** Technology Consultant / Senior Software Engineer / Technical Lead across Bradesco, Itaú, MAPFRE, and T-Mobile
 - 🏦 **Payments & digital banking:** Software Express, PagBank Digital Account, salary portability, payment gateways, POS integrations, PIX, Open Finance
 - 🛠️ **Legacy modernization:** Java 6 → Java 21, monoliths with 70+ modules, dependency/vulnerability remediation
 - ☁️ **Cloud-native backend:** microservices, hexagonal architecture, Kafka/RabbitMQ, AWS/Azure/GCP, Kubernetes
@@ -65,33 +67,13 @@ Lately I've also been applying AI-assisted engineering (prompt engineering, LLM 
 
 ### Highlights
 
+- 🔵 **IBM Consulting** — Technology Consultant / Senior Software Engineer / Technical Lead, Mar 2022 - Jun 2025, across 4 enterprise client engagements
 - 🔐 Eliminated **5,000+ vulnerabilities** in a global payment platform (Fiserv Software Express), some open for 6+ years
 - ⚡ Improved salary-portability query performance by **80%+** and built **1,300+ unit tests** at PagBank
-- 🏗️ Modernized core credit systems from **COBOL/mainframe to Java microservices** at Itaú
-- 📈 Reduced daily financial batch processing from **2 hours to 30 minutes** (3M+ entries/day) at MAPFRE
-- 🇺🇸 Delivered a 15-microservice CCPA compliance program for T-Mobile with US-based leadership
+- 🏗️ Modernized core credit systems from **COBOL/mainframe to Java microservices** at Itaú *(IBM Consulting engagement)*
+- 📈 Reduced daily financial batch processing from **2 hours to 30 minutes** (3M+ entries/day) at MAPFRE *(IBM Consulting engagement)*
+- 🇺🇸 Delivered a 15-microservice CCPA compliance program for T-Mobile with US-based leadership *(IBM Consulting engagement)*
 - 📹 Built FullCam from zero to **30,000 customers**, cutting live-video latency from 6s to 20ms via WebRTC
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leon-lourenco&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon-lourenco&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leon-lourenco&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leon-lourenco&theme=flat&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leon-lourenco&theme=minimal&hide_border=true" />
-</p>
 
 ---
 
