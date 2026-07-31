@@ -78,23 +78,23 @@ Lately I've also been applying AI-assisted engineering (prompt engineering, LLM 
 ### Professional Journey
 
 <details open>
-<summary><strong><span style="font-size:1.15em">act digital Consulting × Fiserv</span></strong> — Senior Software Engineer <sub>(2026 – Present · Remote)</sub></summary>
+<summary><strong><span style="font-size:1.3em">act digital Consulting × Fiserv</span></strong> — Senior Software Engineer <sub>(2026 – Present · Remote)</sub></summary>
 <br/>
 
 Currently modernizing **Software Express**, a high-criticality global payment platform. I've eliminated **5,000+ vulnerabilities** — some open for over 6 years — while upgrading a 70+ module monolith from Java 1.6 to Java 21 and cutting build time from 23 minutes to 5. Along the way I onboarded 6 new partners into the platform and leaned on an AI-first engineering workflow to speed up legacy analysis and modernization planning.
 
 </details>
 
-<details>
-<summary><strong><span style="font-size:1.15em">TQI Consulting × PagBank</span></strong> — Senior Software Engineer <sub>(2025 – 2026 · Remote)</sub></summary>
+<details open>
+<summary><strong><span style="font-size:1.3em">TQI Consulting × PagBank</span></strong> — Senior Software Engineer <sub>(2025 – 2026 · Remote)</sub></summary>
 <br/>
 
 Back to digital banking, this time on PagBank's Digital Account and Terminals products. I refactored the core salary-portability queries for an **80%+** performance gain, rebuilt the domain's test suite with **1,300+ new tests**, and supported a product launch that grew the customer base by 20% in five months — all while owning production support across 200+ customer tickets.
 
 </details>
 
-<details>
-<summary><strong><span style="font-size:1.15em">IBM Consulting</span></strong> — Technology Consultant / Senior Software Engineer / Technical Lead <sub>(2022 – 2025 · Remote)</sub></summary>
+<details open>
+<summary><strong><span style="font-size:1.3em">IBM Consulting</span></strong> — Technology Consultant / Senior Software Engineer / Technical Lead <sub>(2022 – 2025 · Remote)</sub></summary>
 <br/>
 
 Three years, four very different enterprise clients, one common thread: modernizing critical systems without breaking them.
@@ -106,16 +106,16 @@ Three years, four very different enterprise clients, one common thread: moderniz
 
 </details>
 
-<details>
-<summary><strong><span style="font-size:1.15em">Yapay Pagamentos Online / Vindi</span></strong> — Mid-Level Software Engineer <sub>(2021 – 2022 · Remote)</sub></summary>
+<details open>
+<summary><strong><span style="font-size:1.3em">Yapay Pagamentos Online / Vindi</span></strong> — Mid-Level Software Engineer <sub>(2021 – 2022 · Remote)</sub></summary>
 <br/>
 
 My first real dive into payments. I maintained SuperPay, the company's legacy gateway, and joined the New Business team building integrations across Yapay's financial ecosystem — payment and POS backend features spanning Ruby on Rails and Java EE. This is where the fintech thread of my career really started.
 
 </details>
 
-<details>
-<summary><strong><span style="font-size:1.15em">Fulltime Gestora de Dados</span></strong> — Software Developer → Backend Team Lead <sub>(2018 – 2021 · Garça, SP)</sub></summary>
+<details open>
+<summary><strong><span style="font-size:1.3em">Fulltime Gestora de Dados</span></strong> — Software Developer → Backend Team Lead <sub>(2018 – 2021 · Garça, SP)</sub></summary>
 <br/>
 
 I joined right out of school and helped build **FullCam**, a real-time camera monitoring platform, from the ground up. Over three years I grew into the backend team lead — guiding architecture and technology decisions while onboarding 10+ engineers. We took FullCam from zero to **30,000 customers**, built cloud and on-premise microservices around FFMPEG, OpenCV, WebRTC, and MQTT, and shipped a notification architecture that delivered **15M+ alerts**. The proudest engineering win: reworking live-camera viewing with WebRTC and cutting display latency from **6 seconds down to 20 milliseconds**.
